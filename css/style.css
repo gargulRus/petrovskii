@@ -292,7 +292,7 @@ html, body, .wrapper{
 .header-top-section{
     display: block;
     width: 100%;
-    background: #1abc9c;
+    background: #80d2f7;
     color: #fff;
 }
 
@@ -392,7 +392,7 @@ ul.navbar-nav li a{
     text-transform: uppercase;
 }
 ul.navbar-nav li.active a, ul.navbar-nav li a:hover{
-    color: #1abc9c !important;
+    color: #80d2f7 !important;
 }
 ul.navbar-nav.cart-menu li a{
     padding-right: 0;
@@ -525,7 +525,7 @@ span.shoping-cart {
     padding: 0;
 }
 .carousel-inner .item .carousel-caption h2 b{
-    color: #1abc9c
+    color: #80d2f7
 }
 
 .carousel-inner .item .carousel-caption h3{
@@ -545,7 +545,7 @@ span.shoping-cart {
 .carousel-inner .item .carousel-caption a{
     display: inline-block;
     padding: 13px 30px;
-    border: 2px solid #1abc9c;
+    border: 2px solid #80d2f7;
     color: #fff;
     text-transform: uppercase;
     text-shadow: none;
@@ -555,7 +555,7 @@ span.shoping-cart {
     margin-top: 10px;
 }
 .carousel-inner .item .carousel-caption a:hover{
-    background: #1abc9c;
+    background: #80d2f7;
 }
 .carousel-control{
     background-image: none !important;
@@ -568,7 +568,7 @@ span.shoping-cart {
     color: #fff;
     }
 a.carousel-control.left, a.carousel-control.right{
-    background: #46bfa9 !important;
+    background: #80d2f7 !important;
     background-image: none !important;
     box-shadow: none !important;
     width: 100px;
